@@ -1,0 +1,5 @@
+redis
+celery
+requests
+django-environ
+mailersend
